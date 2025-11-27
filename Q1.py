@@ -1,0 +1,5 @@
+print("A,B,AB")
+print("F,F,F")
+print("F,T,F")
+print("T,F,F")
+print("T,T,T")
